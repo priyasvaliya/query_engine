@@ -1,0 +1,6 @@
+CREATE TABLE student (id int PK,name char,city char,contact int);
+CREATE TABLE mark (id int FK REFERENCES student id,totalMark int);
+INSERT INTO mark (id,totalMark) VALUES (1,90);
+INSERT INTO mark (id,totalMark) VALUES (2,91);
+INSERT INTO student (id,name,city,contact) VALUES (1,Priya,halifax,9852453652);
+INSERT INTO student (id,name,city,contact) VALUES (2,Monisha,halifax,7812453652);

@@ -1,0 +1,20 @@
+student
+id int PK
+name char
+city char
+contact int
+
+mark
+id int FK REFERENCES student id
+totalMark int
+
+student
+id int PK
+name char
+city char
+contact int
+
+mark
+id int FK REFERENCES student id
+totalMark int
+

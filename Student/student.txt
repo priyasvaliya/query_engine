@@ -1,0 +1,15 @@
+city halifax
+contact 9852453652
+name Priyaa
+id 1
+
+city halifax
+contact 7812453652
+name Monisha
+id 2
+
+city halifax
+contact 6552453648
+name Aditya
+id 3
+

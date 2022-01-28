@@ -1,0 +1,156 @@
+CREATE DATABASE QUERY with Status of true was executed in 10131597 nano seconds
+USE DATABASE QUERY with Status of true was executed in 11134 nano seconds
+USE DATABASE QUERY with Status of true was executed in 14190 nano seconds
+CREATE QUERY with Status of false was executed in 7958614 nano seconds
+CREATE QUERY with Status of false was executed in 7958614 nano seconds
+USE DATABASE QUERY with Status of true was executed in 7489 nano seconds
+CREATE QUERY with Status of false was executed in 7750501 nano seconds
+CREATE QUERY with Status of false was executed in 7750501 nano seconds
+USE DATABASE QUERY with Status of true was executed in 11374 nano seconds
+CREATE QUERY with Status of true was executed in 6975407 nano seconds
+	Test1 database has 3 tables. Table ADITYA3 has 1 records. 
+CREATE QUERY with Status of true was executed in 6975407 nano seconds
+	Test1 database has 3 tables. Table ADITYA3 has 1 records. 
+INSERT QUERY with Status of true was executed in 2100483 nano seconds
+	Test1 database has 3 tables. Table ADITYA3 has 1 records. 
+INSERT QUERY with Status of true was executed in 869748 nano seconds
+	Test1 database has 3 tables. Table ADITYA3 has 1 records. 
+SELECT QUERY with Status of true was executed in 3303345 nano seconds
+	Test1 database has 3 tables. Table ADITYA3 has 1 records. 
+SELECT QUERY with Status of true was executed in 343032 nano seconds
+	Test1 database has 3 tables. Table ADITYA3 has 1 records. 
+SELECT QUERY with Status of true was executed in 681947 nano seconds
+	Test1 database has 3 tables. Table ADITYA3 has 1 records. 
+UPDATE QUERY with Status of true was executed in 4690957 nano seconds
+	Test1 database has 3 tables. Table ADITYA3 has 1 records. 
+SELECT QUERY with Status of true was executed in 770058 nano seconds
+	Test1 database has 3 tables. Table ADITYA3 has 1 records. 
+SELECT QUERY with Status of true was executed in 547561 nano seconds
+	Test1 database has 3 tables. Table ADITYA3 has 1 records. 
+CREATE DATABASE QUERY with Status of false was executed in 887130 nano seconds
+USE DATABASE QUERY with Status of true was executed in 6784 nano seconds
+CREATE DATABASE QUERY with Status of false was executed in 1195564 nano seconds
+USE DATABASE QUERY with Status of true was executed in 8243 nano seconds
+CREATE DATABASE QUERY with Status of true was executed in 926469 nano seconds
+USE DATABASE QUERY with Status of true was executed in 8080 nano seconds
+CREATE DATABASE QUERY with Status of false was executed in 1290786 nano seconds
+USE DATABASE QUERY with Status of true was executed in 13554 nano seconds
+CREATE DATABASE QUERY with Status of true was executed in 527660 nano seconds
+USE DATABASE QUERY with Status of true was executed in 8356 nano seconds
+CREATE QUERY with Status of true was executed in 632601 nano seconds
+	Test1 database has 3 tables. Table ADITYA3 has 1 records. 
+CREATE QUERY with Status of true was executed in 632601 nano seconds
+	Test1 database has 3 tables. Table ADITYA3 has 1 records. 
+INSERT QUERY with Status of true was executed in 665451 nano seconds
+	Test1 database has 3 tables. Table ADITYA3 has 1 records. 
+INSERT QUERY with Status of true was executed in 234686 nano seconds
+	Test1 database has 3 tables. Table ADITYA3 has 1 records. 
+USE DATABASE QUERY with Status of true was executed in 7080 nano seconds
+INSERT QUERY with Status of true was executed in 20488026 nano seconds
+	Test1 database has 3 tables. Table ADITYA3 has 1 records. 
+USE DATABASE QUERY with Status of true was executed in 15974 nano seconds
+INSERT QUERY with Status of false was executed in 35507801 nano seconds
+	Test1 database has 3 tables. Table ADITYA3 has 1 records. 
+UPDATE QUERY with Status of false was executed in 6565940 nano seconds
+UPDATE QUERY with Status of false was executed in 13716359 nano seconds
+USE DATABASE QUERY with Status of true was executed in 8252 nano seconds
+UPDATE QUERY with Status of true was executed in 32876357 nano seconds
+	Test1 database has 3 tables. Table ADITYA3 has 1 records. 
+USE DATABASE QUERY with Status of true was executed in 8755 nano seconds
+UPDATE QUERY with Status of true was executed in 2642344 nano seconds
+	Test1 database has 3 tables. Table ADITYA3 has 1 records. 
+USE DATABASE QUERY with Status of true was executed in 6452 nano seconds
+UPDATE QUERY with Status of true was executed in 36598666 nano seconds
+	Test1 database has 3 tables. Table ADITYA3 has 1 records. 
+SELECT QUERY with Status of false was executed in 253016 nano seconds
+	Test1 database has 3 tables. Table ADITYA3 has 1 records. 
+SELECT QUERY with Status of false was executed in 41532 nano seconds
+	Test1 database has 3 tables. Table ADITYA3 has 1 records. 
+USE DATABASE QUERY with Status of true was executed in 22566 nano seconds
+UPDATE QUERY with Status of true was executed in 23386914 nano seconds
+	Test1 database has 3 tables. Table ADITYA3 has 1 records. 
+SELECT QUERY with Status of false was executed in 239245 nano seconds
+	Test1 database has 3 tables. Table ADITYA3 has 1 records. 
+SELECT QUERY with Status of false was executed in 38635 nano seconds
+	Test1 database has 3 tables. Table ADITYA3 has 1 records. 
+USE DATABASE QUERY with Status of true was executed in 5308 nano seconds
+UPDATE QUERY with Status of true was executed in 39390099 nano seconds
+	Test1 database has 3 tables. Table ADITYA3 has 1 records. 
+SELECT QUERY with Status of true was executed in 537995 nano seconds
+	Test1 database has 3 tables. Table ADITYA3 has 1 records. 
+SELECT QUERY with Status of true was executed in 379621 nano seconds
+	Test1 database has 3 tables. Table ADITYA3 has 1 records. 
+USE DATABASE QUERY with Status of true was executed in 19297 nano seconds
+INSERT QUERY with Status of true was executed in 2009486 nano seconds
+	Test1 database has 3 tables. Table ADITYA3 has 1 records. 
+UPDATE QUERY with Status of true was executed in 6561707 nano seconds
+	Test1 database has 3 tables. Table ADITYA3 has 1 records. 
+SELECT QUERY with Status of true was executed in 1633087 nano seconds
+	Test1 database has 3 tables. Table ADITYA3 has 1 records. 
+SELECT QUERY with Status of true was executed in 1355966 nano seconds
+	Test1 database has 3 tables. Table ADITYA3 has 1 records. 
+SELECT QUERY with Status of true was executed in 1239805 nano seconds
+	Test1 database has 3 tables. Table ADITYA3 has 1 records. 
+SELECT QUERY with Status of false was executed in 18242600 nano seconds
+SELECT QUERY with Status of false was executed in 16503000 nano seconds
+USE DATABASE QUERY with Status of true was executed in 6300 nano seconds
+SELECT QUERY with Status of true was executed in 15863900 nano seconds
+	Student database has 4 tables. Table mark has 4 records. Table student has 3 records. 
+USE DATABASE QUERY with Status of true was executed in 9600 nano seconds
+SELECT QUERY with Status of true was executed in 24119100 nano seconds
+	Student database has 4 tables. Table mark has 4 records. Table student has 3 records. 
+USE DATABASE QUERY with Status of true was executed in 8200 nano seconds
+SELECT QUERY with Status of true was executed in 20760500 nano seconds
+	Student database has 4 tables. Table mark has 3 records. Table student has 3 records. 
+USE DATABASE QUERY with Status of true was executed in 5900 nano seconds
+SELECT QUERY with Status of true was executed in 19347300 nano seconds
+	Student database has 4 tables. Table mark has 3 records. Table student has 3 records. 
+SELECT QUERY with Status of true was executed in 675400 nano seconds
+	Student database has 4 tables. Table mark has 3 records. Table student has 3 records. 
+USE DATABASE QUERY with Status of true was executed in 6000 nano seconds
+SELECT QUERY with Status of true was executed in 20319600 nano seconds
+	Student database has 4 tables. Table mark has 3 records. Table student has 3 records. 
+USE DATABASE QUERY with Status of true was executed in 6400 nano seconds
+SELECT QUERY with Status of true was executed in 15352100 nano seconds
+	Student database has 4 tables. Table mark has 3 records. Table student has 3 records. 
+SELECT QUERY with Status of true was executed in 1355800 nano seconds
+	Student database has 4 tables. Table mark has 3 records. Table student has 3 records. 
+SELECT QUERY with Status of true was executed in 895900 nano seconds
+	Student database has 4 tables. Table mark has 3 records. Table student has 3 records. 
+SELECT QUERY with Status of false was executed in 182700 nano seconds
+	Student database has 4 tables. Table mark has 3 records. Table student has 3 records. 
+SELECT QUERY with Status of true was executed in 668500 nano seconds
+	Student database has 4 tables. Table mark has 3 records. Table student has 3 records. 
+CREATE DATABASE QUERY with Status of false was executed in 754300 nano seconds
+USE DATABASE QUERY with Status of true was executed in 12100 nano seconds
+CREATE QUERY with Status of true was executed in 1966400 nano seconds
+	Student database has 4 tables. Table mark has 3 records. Table student has 3 records. 
+CREATE QUERY with Status of true was executed in 1966400 nano seconds
+	Student database has 4 tables. Table mark has 3 records. Table student has 3 records. 
+CREATE QUERY with Status of true was executed in 2285000 nano seconds
+	Student database has 4 tables. Table mark has 3 records. Table student has 3 records. 
+CREATE QUERY with Status of true was executed in 2285000 nano seconds
+	Student database has 4 tables. Table mark has 3 records. Table student has 3 records. 
+INSERT QUERY with Status of false was executed in 1677600 nano seconds
+	Student database has 4 tables. Table mark has 3 records. Table student has 3 records. 
+INSERT QUERY with Status of false was executed in 1006800 nano seconds
+	Student database has 4 tables. Table mark has 3 records. Table student has 3 records. 
+INSERT QUERY with Status of false was executed in 838400 nano seconds
+	Student database has 4 tables. Table mark has 3 records. Table student has 3 records. 
+INSERT QUERY with Status of false was executed in 804900 nano seconds
+	Student database has 4 tables. Table mark has 3 records. Table student has 3 records. 
+SELECT QUERY with Status of false was executed in 568600 nano seconds
+SELECT QUERY with Status of false was executed in 164200 nano seconds
+SELECT QUERY with Status of false was executed in 146700 nano seconds
+SELECT QUERY with Status of false was executed in 110000 nano seconds
+SELECT QUERY with Status of false was executed in 118700 nano seconds
+USE DATABASE QUERY with Status of true was executed in 9500 nano seconds
+SELECT QUERY with Status of true was executed in 23778900 nano seconds
+	Student database has 4 tables. Table mark has 3 records. Table student has 3 records. 
+SELECT QUERY with Status of true was executed in 749600 nano seconds
+	Student database has 4 tables. Table mark has 3 records. Table student has 3 records. 
+USE DATABASE QUERY with Status of true was executed in 11500 nano seconds
+UPDATE QUERY with Status of true was executed in 26025600 nano seconds
+	Student database has 4 tables. Table mark has 3 records. Table student has 1 records. 
+SELECT QUERY with Status of true was executed in 1139100 nano seconds
+	Student database has 4 tables. Table mark has 3 records. Table student has 1 records. 
